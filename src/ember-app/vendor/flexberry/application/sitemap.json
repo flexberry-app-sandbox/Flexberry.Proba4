@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Proba_4",
+  "applicationTitle": "Proba_4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "proba-4",
+      "caption": "Proba_4",
+      "title": "Proba_4",
+      "children": [
+        {
+          "link": "i-i-s-proba-4-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba-4-улицы-l",
+          "menuName": null,
+          "caption": "Улицы",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

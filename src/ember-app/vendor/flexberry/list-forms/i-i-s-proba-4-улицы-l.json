@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba-4-улицы-e",
+  "editForm": "i-i-s-proba-4-улицы-e",
+  "external": false,
+  "caption": "Улицы",
+  "name": "IISProba_4УлицыL",
+  "className": "УлицыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba-4-улицы",
+      "modelProjection": "УлицыL"
+    }
+  ]
+}
