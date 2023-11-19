@@ -23,6 +23,28 @@
           "children": null
         }
       ]
+    },
+    {
+      "link": null,
+      "menuName": "приложение",
+      "caption": "Приложение",
+      "title": "Приложение",
+      "children": [
+        {
+          "link": "i-i-s-proba-4-улицы-l",
+          "menuName": null,
+          "caption": "УлицыL",
+          "title": "Улицы",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba-4-город-l",
+          "menuName": null,
+          "caption": "ГородL",
+          "title": "Город",
+          "children": null
+        }
+      ]
     }
   ],
   "mobile": true

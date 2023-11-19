@@ -91,6 +91,18 @@ $.extend(true, translations, {
             caption: 'Улицы',
             title: ''
           }
+        },
+        приложение: {
+          caption: 'Приложение',
+          title: 'Приложение',
+          'i-i-s-proba-4-улицы-l': {
+            caption: 'УлицыL',
+            title: 'Улицы'
+          },
+          'i-i-s-proba-4-город-l': {
+            caption: 'ГородL',
+            title: 'Город'
+          }
         }
       }
     },

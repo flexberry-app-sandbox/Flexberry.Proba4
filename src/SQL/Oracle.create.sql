@@ -9,6 +9,8 @@ CREATE TABLE "Город"
 
 	"Наименование" NVARCHAR2(255) NULL,
 
+	"Площадь" NUMBER(10) NULL,
+
 	 PRIMARY KEY ("primaryKey")
 ) ;
 

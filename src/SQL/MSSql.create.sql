@@ -8,6 +8,8 @@ CREATE TABLE [Город] (
 
 	 [Наименование] VARCHAR(255)  NULL,
 
+	 [Площадь] INT  NULL,
+
 	 PRIMARY KEY ([primaryKey]))
 
 

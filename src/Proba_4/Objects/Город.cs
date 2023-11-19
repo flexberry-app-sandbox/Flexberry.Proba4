@@ -37,6 +37,8 @@ namespace IIS.Proba_4
         
         private string fНаименование;
         
+        private int fПлощадь;
+        
         // *** Start programmer edit section *** (Город CustomMembers)
 
         // *** End programmer edit section *** (Город CustomMembers)
@@ -71,6 +73,37 @@ namespace IIS.Proba_4
                 // *** Start programmer edit section *** (Город.Наименование Set end)
 
                 // *** End programmer edit section *** (Город.Наименование Set end)
+            }
+        }
+        
+        /// <summary>
+        /// Площадь.
+        /// </summary>
+        // *** Start programmer edit section *** (Город.Площадь CustomAttributes)
+
+        // *** End programmer edit section *** (Город.Площадь CustomAttributes)
+        public virtual int Площадь
+        {
+            get
+            {
+                // *** Start programmer edit section *** (Город.Площадь Get start)
+
+                // *** End programmer edit section *** (Город.Площадь Get start)
+                int result = this.fПлощадь;
+                // *** Start programmer edit section *** (Город.Площадь Get end)
+
+                // *** End programmer edit section *** (Город.Площадь Get end)
+                return result;
+            }
+            set
+            {
+                // *** Start programmer edit section *** (Город.Площадь Set start)
+
+                // *** End programmer edit section *** (Город.Площадь Set start)
+                this.fПлощадь = value;
+                // *** Start programmer edit section *** (Город.Площадь Set end)
+
+                // *** End programmer edit section *** (Город.Площадь Set end)
             }
         }
         

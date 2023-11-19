@@ -28,13 +28,31 @@ export default Controller.extend({
             link: 'i-i-s-proba-4-город-l',
             caption: i18n.t('forms.application.sitemap.proba-4.i-i-s-proba-4-город-l.caption'),
             title: i18n.t('forms.application.sitemap.proba-4.i-i-s-proba-4-город-l.title'),
-            icon: 'briefcase',
+            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-proba-4-улицы-l',
             caption: i18n.t('forms.application.sitemap.proba-4.i-i-s-proba-4-улицы-l.caption'),
             title: i18n.t('forms.application.sitemap.proba-4.i-i-s-proba-4-улицы-l.title'),
             icon: 'phone',
+            children: null
+          }]
+        }, {
+          link: null,
+          icon: 'list',
+          caption: i18n.t('forms.application.sitemap.приложение.caption'),
+          title: i18n.t('forms.application.sitemap.приложение.title'),
+          children: [{
+            link: 'i-i-s-proba-4-улицы-l',
+            caption: i18n.t('forms.application.sitemap.приложение.i-i-s-proba-4-улицы-l.caption'),
+            title: i18n.t('forms.application.sitemap.приложение.i-i-s-proba-4-улицы-l.title'),
+            icon: 'chart bar',
+            children: null
+          }, {
+            link: 'i-i-s-proba-4-город-l',
+            caption: i18n.t('forms.application.sitemap.приложение.i-i-s-proba-4-город-l.caption'),
+            title: i18n.t('forms.application.sitemap.приложение.i-i-s-proba-4-город-l.title'),
+            icon: 'book',
             children: null
           }]
         }

@@ -14,6 +14,9 @@ export default {
   validations: {
     наименование: {
       __caption__: 'Наименование'
+    },
+    площадь: {
+      __caption__: 'площадь'
     }
   }
 };
